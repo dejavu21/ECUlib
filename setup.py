@@ -4,7 +4,7 @@ setup(
     name='eculib',
     version='1.0.9',
     description='A library for K-line based ECU communication',
-    url='https://github.com/MCU-Innovations/eculib',
+    url='https://github.com/dejavu21/ECUlib',
     author='Ryan M. Hope',
     author_email='ryan.hope@mcuinnovations.com',
     license='GPL-3',
